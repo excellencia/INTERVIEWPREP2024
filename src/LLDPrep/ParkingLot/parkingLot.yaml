@@ -1,0 +1,30 @@
+openapi: 3.0.0
+paths:
+  /api/v1/parking/park:
+    post:
+      summary: Park a vehicle
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ParkRequest'
+      responses:
+        '200':
+          description: Vehicle parked successfully
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ParkResponse'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '409':
+          description: Parking lot full
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
