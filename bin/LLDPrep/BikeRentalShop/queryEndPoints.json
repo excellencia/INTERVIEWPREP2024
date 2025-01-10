@@ -1,0 +1,60 @@
+// 1. GET SMALL BIKE COUNTS
+
+GET /api/products/bikes/count?size=SMALL
+
+Response:(200 OK)
+{
+    "count" : 5,
+    "size" : "SMALL",
+    "availableCount" : 3,
+    "rentedCount" : 2
+}
+
+//2. GET Available products
+
+GET /api/products/available
+Query Params:
+type:"BIKE" | "SCOOTER" //required
+bikeSize:"SMALL" | "MEDIUM" | "LARGE" //optional, required if type == BIKE
+motorType:"ELECTRIC" | "GAS" //optional, required if type == SCOOTER
+Response: (200 OK)
+{
+    "products" : [
+        {
+            "id": "string",
+            "type": "string",
+            "name": "string",
+            "rentalRate":"decimal",
+            "manufacturingYear": "string",
+            "bikeSize": ["SMALL", "MEDIUM", "LARGE"], //if type == BIKE
+            "serialNumber": "string", //if type == BIKE
+            "motorType": ["ELECTRIC", "GAS"], //if type == SCOOTER
+            "registrationNumber": "string", //if type == SCOOTER
+            "engineCapacity": "string" //if type == SCOOTER
+        }
+    ],
+    "totalCount" : 10
+}
+
+//3. Check customer Balance
+
+GET /api/customers/{customerId}/balance
+
+Response: (200 OK)
+{
+    "customerId" : "string",
+    "hasBalance" : true,
+    "outstandingCharges" : [
+        {
+            "chargeID":"string",
+            "type": ["RENTAL", "DAMAGE", "LATE_FEE"],
+            "amount":"decimal",
+            "createdAt":"datetime"
+        }
+    ],
+    "totalOwed" : "decimal"
+}
+
+//4. Get Rented Products
+
+GET /api/products/rented

@@ -1,0 +1,64 @@
+Problem Statement
+Given a set of data (Coupons and Categories), create a function that will find the coupon to display for a given category.
+
+Input Data
+Coupons: List of coupons with category names.
+Categories: List of categories with hierarchical parent relationships.
+Requirements
+Create a function that takes a category name (string) as input and returns the coupon name (string).
+Categories without a coupon should inherit their parent's coupon.
+If there is no coupon in the category's hierarchy, return null.
+If a category has its own coupon, it should not inherit the parent's coupon.
+Example edge case:
+"Bathroom Accessories" inherits the coupon for "Bed & Bath".
+"Toy Organizers" returns null because there are no coupons in its hierarchy.
+Examples
+
+Input: "Comforter Sets" => Output: "Comforters Sale"  
+Input: "Bedding" => Output: "Savings on Bedding"  
+Input: "Bathroom Accessories" => Output: "Low price for Bed & Bath"  
+Input: "Soap Dispensers" => Output: "Low price for Bed & Bath"  
+Input: "Toy Organizers" => Output: null  
+
+
+Follow-Up Question 1: Optimization
+Problem Statement
+The findBestCoupon function is being called billions of times per day, and performance needs to improve. Optimize the function to run in O(1) time complexity.
+
+Requirements
+Code must still meet the requirements from the main question.
+Replace the current logic (likely O(n)) with a precomputed solution that ensures O(1) lookups.
+
+Follow-Up Question 2: Tiebreaker with DateModified
+Problem Statement
+The system has added a DateModified field to the coupons. When a category has multiple coupons, use the coupon with the most recent DateModified. Coupons with future dates should be ignored.
+
+Requirements
+If a category has multiple coupons, return the one with the most recent DateModified.
+Ignore coupons where DateModified is in the future.
+Categories without a coupon should still inherit their parent's coupon.
+Examples
+
+Input: "Bed & Bath" => Output: "Bed & Bath extravaganza"  
+Input: "Bedding" => Output: "Savings on Bedding" OR "Best Bedding Bargains"  
+Input: "Comforter Sets" => Output: "Comforters Sale" OR "Cozy Comforter Coupon"  
+Input: "Bathroom Accessories" => Output: "Bed & Bath extravaganza" 
+
+Follow-Up Question 3: Discounted Price Calculation
+Problem Statement
+Given a product name and its price, apply the appropriate coupon discount to calculate the product's discounted price.
+
+Requirements
+Create a function that takes a product name (string) as input.
+Return the discounted price as a string.
+Products inherit coupons from their categories (following the rules in previous questions).
+If no coupon applies, return the original price.
+Examples
+text
+Copy code
+Input: "Cozy Comforter" => Output: "90.00" OR "85.00"  
+Input: "All-in-one Bedding Set" => Output: "32.50" OR "37.50"  
+Input: "Infinite Soap Dispenser" => Output: "125.00"  
+Input: "Rainbow Toy Box" => Output: "257.00"  
+Final Notes
+The problem progresses from finding the correct coupon (main question) to optimizing for performance, handling date-based tiebreakers, and applying discounts to products. Each question builds on the previous functionality.

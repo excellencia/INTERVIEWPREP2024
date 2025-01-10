@@ -1,0 +1,145 @@
+{
+    "productManagement": {
+        "addProduct": {
+            "method": "POST",
+            "endpoint": "/api/products",
+            "request": {
+                "type": ["BIKE", "SCOOTER"],
+                "name": "string",
+                "manufacturingYear": "string",
+                "bikeSize": ["SMALL", "MEDIUM", "LARGE"],
+                "serialNumber": "string",
+                "motorType": ["ELECTRIC", "GAS"],
+                "registrationNumber": "string",
+                "engineCapacity": "string"
+            },
+            "response": {
+                "status": 201,
+                "body": {
+                    "id": "string",
+                    "type": "string",
+                    "name": "string",
+                    "manufacturingYear": "string",
+                    "status": "AVAILABLE",
+                    "bikeSize": ["SMALL", "MEDIUM", "LARGE"],
+                    "serialNumber": "string",
+                    "motorType": ["ELECTRIC", "GAS"],
+                    "registrationNumber": "string",
+                    "engineCapacity": "string"
+                }
+            }
+        },
+        "removeProduct": {
+            "method": "DELETE",
+            "endpoint": "/api/products/{productID}",
+            "response": {
+                "status": 204
+            }
+        }
+    },
+    "customerManagement": {
+        "registerCustomer": {
+            "method": "POST",
+            "endpoint": "/api/customers",
+            "request": {
+                "name": "string",
+                "email": "string",
+                "phone": "string",
+                "address": {
+                    "street": "string",
+                    "city": "string",
+                    "state": "string",
+                    "Zipcode": "string"
+                },
+                "identification": {
+                    "type": ["PASSPORT", "DL", "NATIONAL_ID"],
+                    "number": "string",
+                    "issuingCountry": "string",
+                    "expiry": "date"
+                }
+            },
+            "response": {
+                "status": 201,
+                "body": {
+                    "id": "string",
+                    "status": "PENDING_VERIFICATION",
+                    "kycStatus": "PENDING",
+                    "name": "string",
+                    "email": "string",
+                    "phone": "string",
+                    "address": {
+                        "street": "string",
+                        "city": "string",
+                        "state": "string",
+                        "Zipcode": "string"
+                    },
+                    "identification": {
+                        "type": "string",
+                        "number": "string",
+                        "issuingCountry": "string",
+                        "expiry": "date"
+                    }
+                }
+            }
+        },
+        "addSecurityDeposit": {
+            "method": "POST",
+            "endpoint": "/api/customers/{customerId}/deposits",
+            "request": {
+                "amount": "decimal",
+                "paymentMethod": ["CREDIT_CARD", "DEBIT_CARD", "BANK_TRANSFER"],
+                "paymentDetails": {}
+            },
+            "response": {
+                "status": 201,
+                "body": {
+                    "depositId": "string",
+                    "totalAmount": "decimal",
+                    "availableAmount": "decimal",
+                    "status": "ACTIVE"
+                }
+            }
+        }
+    },
+    "rentalManagement": {
+        "createRental": {
+            "method": "POST",
+            "endpoint": "/api/rentals",
+            "request": {
+                "productId": "string",
+                "customerId": "string",
+                "startDate": "date",
+                "dueDate": "date"
+            },
+            "response": {
+                "status": 201,
+                "body": {
+                    "rentalId": "string",
+                    "status": "ACTIVE",
+                    "depositHeld": "decimal",
+                    "estimatedCost": "decimal"
+                }
+            }
+        },
+        "createCharge": {
+            "method": "POST",
+            "endpoint": "/api/charges",
+            "request": {
+                "customerId": "string",
+                "rentalId": "string",
+                "amount": "decimal",
+                "type": ["RENTAL", "DAMAGE", "LATE_FEE"],
+                "description": "string"
+            },
+            "response": {
+                "status": 201,
+                "body": {
+                    "chargeId": "string",
+                    "status": "PENDING",
+                    "amount": "decimal",
+                    "timestamp": "datetime"
+                }
+            }
+        }
+    }
+}

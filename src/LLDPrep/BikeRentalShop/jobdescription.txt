@@ -1,0 +1,363 @@
+Overview
+Engineering Systems (ES) team is responsible for developing the tools and services used to plan, design, author, manage sources, build, package, manage artifacts, and validate services and products across Azure, Windows, and Edge. The Engineering systems organization in AE+P is a diverse team changing the way Azure code is built, tested, and released across the division and the entire company.
+
+Qualifications
+Bachelor's Degree in Computer Science or related technical field AND 8 - 12 years of experience in object-oriented programming and design patterns (C#, C++, .NET or Java)
+2+ years people Management experience
+2+ years of experience managing a product team
+6+ years of hands-on experience shipping products across multiple product cycles
+Dedicated to diversity and inclusion initiatives
+Ability to both lead and collaborate within and across teams effectively
+Experience creating, developing, delivering, deploying, and maintaining services, especially architectures at scale
+ 
+
+
+Responsibilities
+Lead, mentor and grow a team of diverse software engineers
+Drive execution of feature work through the whole software development lifecycle
+Collaborate across boundaries (internally and externally) to create a seamless product that delights our customers
+Work with the PM team to prioritize, estimate, and schedule feature work to meet the highest priority demands on Windows Server
+Identify and implement engineering best practices. Drive Live Site culture within the organization to ensure services truly delight our customers
+Hire great talent and help meet career aspirations of all engineers on your team
+Conduct periodic on call duties and live site support
+Use data to develop insights and guide business decisions
+
+Overview
+With Microsoft Cloud Security team, we take immense pride in developing a diverse set of security products and services that are leaders in their respective market segments. Our innovative solutions have set new industry standards, earning global recognition safeguarding critical infrastructure at the highest scale.
+
+Microsoft Defender for Cloud is a cloud-native application protection platform (CNAPP) designed to protect cloud-based applications running in all major cloud providers. Microsoft Defender for Cloud secures cloud applications from code-to-cloud by unifying development security operations (DevSecOps) at the code level, cloud security posture management (CSPM) to surface and prevent breaches and cloud workload protection platform (CWPP) to identify, alert and block real-time cyber-attacks worldwide.
+
+We’re a diverse group of talented professionals consisting of software engineers, security researchers, program managers and data scientists collaborating to develop products that secure our customers, including the biggest companies in the world. We are looking for a Software Engineer II to join our team.
+
+You will work in a supportive and inclusive environment where you will learn and work alongside the best and brightest minds in the industry, and could make a significant impact, grow your skills and advance your career. 
+
+If you're up to disrupt #CloudSecurity, come join us at the world’s leading security company at Microsoft Defender for Cloud group!  
+
+Qualifications
+7+ years of software development experience building large scale applications.  
+3+ years of people management: technical leadership and mentorship, personal development, team building, recruiting ,vision, and roadmap creation. 
+B.Sc./M.Sc in Computer Science, Software Engineering or equivalent. 
+Lead complex designs, implement with quality and scale, mentor engineers. 
+Expertise in architecture, design, development, and deployment of high scale cloud systems. 
+Experience with large scale operations, using methodologies such as feedback/Metrics collection techniques to expose live site/service issues 
+Ability to deal with the ambiguity associated with working in a fast-paced and changing environment.   
+Additional or Preferred Qualifications: 
+
+6+ years of Linux hands on system experiences  
+6+ years of Software Engineering and experience in testing, deploying and supporting large scale services on Azure/AWS/GCP environments.   
+Kubernetes, Prometheus, Cilium /ISTIO or any equivalent.
+ 
+
+ 
+
+Responsibilities
+As a an Engineering Manager in CIENG group, You will lead an infrastructure software engineering team collaboratively designs, builds, and maintains tools that ensure seamless and efficient operations for the organizations which accelerate the developer experience. 
+Mentor and inspire a diverse team of software engineers, fostering a culture of collaboration, innovation, and excellence.  
+Provide technical guidance and expertise to the team, leading by example, assisting with architectural decisions, code reviews, and problem solving.  
+Lead end-to-end design, implementation and delivery of services and features, following industry best practices, adhering to very high security standards 
+Engage in and improve end-to-end lifecycle of services from inception and design, through deployment, operation, and refinement.     
+You will collaborate closely with multiple teams across Microsoft to deliver key customer solutions and the technology to support them.
+
+Are you interested in building hyper-scale services in the cloud. At AWS, engineers get the chance to work on scalability solutions, large scale applications and entirely new products that change the landscape for billions of users worldwide. From RDS to AQUA, Redshift to Aurora, Platform to Builder Tools; AWS engineers are simplifying the complex. This role is part of our Best Fit job match program. We have a variety Software Engineering Manager roles across ANZ. Apply for this role to be considered for multiple roles.
+
+As a Software Engineering Manager at Amazon, you will leverage your exceptional technical expertise and strong leadership abilities to drive the development of mission-critical software systems. Guiding cross-functional engineering teams, you will deliver innovative solutions that delight Amazon's customers worldwide. Your responsibilities will span both technical leadership and people management.
+
+You will contribute hands-on by architecting scalable, high-performance systems and writing code to solve complex problems. Providing technical direction and coaching, you will ensure your engineers continuously improve their skills and deliver quality, optimized solutions. Thriving in a fast-paced, metrics-driven culture, you will manage ambitious project timelines and budgets while maintaining a relentless focus on customer obsession.
+
+Key job responsibilities
+* Provide technical leadership and collaborate with teams to plan and execute engineering programs, software architecture, product policy, and user experience improvements.
+
+* Contribute to development of requirements definition, design, implementation, unit testing, metrics, and integration to ensure quality deliverables.
+
+* Work with Technical Program Managers on release roadmaps and ensure the team is well positioned to support programs.
+
+* Improve efficiency and implement automation/tools to guide future software efforts.
+
+* Set expectations with individuals based on their level and role, meet regularly to discuss performance and development, and provide feedback and coaching.
+
+About the team
+One of the keys to AWS’s success is its top-tier collaborative culture. You will be working closely with a talented team of managers and engineers that will push your technical abilities while you bring new innovations to widely adopted and fast growing services.
+
+Amazon offers an equitable salary package that includes shares, sign-on bonus, and a host of benefits. You will be encouraged and rewarded for doing what is right for the long-term success of the customer. We value your passion to discover, invent and build for the customer.
+
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and we host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences.
+
+BASIC QUALIFICATIONS
+- 3+ years of engineering team management experience
+- 7+ years of engineering experience
+- Knowledge of engineering practices and patterns for the full software/hardware/networks development life cycle, including coding standards, code reviews, source control management, build processes, testing, certification, and livesite operations
+
+PREFERRED QUALIFICATIONS
+- Experience in communicating with users, other technical teams, and senior leadership to collect requirements, describe software product features, technical designs, and product strategy
+- Experience in recruiting, hiring, mentoring/coaching and managing teams of Software Engineers to improve their skills, and make them more effective, product software engineers
+
+Acknowledgement of country:
+In the spirit of reconciliation Amazon acknowledges the Traditional Custodians of country throughout Australia and their connections to land, sea and community. We pay our respect to their elders past and present and extend that respect to all Aboriginal and Torres Strait Islander peoples today.
+
+IDE statement:
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer, and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected attributes.
+
+DESCRIPTION
+AWS Utility Computing (UC) provides product innovations — from foundational services such as Amazon’s Simple Storage Service (S3) and Amazon Elastic Compute Cloud (EC2), to consistently released new product innovations that continue to set AWS’s services and features apart in the industry. As a member of the UC organization, you’ll support the development and management of Compute, Database, Storage, Internet of Things (Iot), Platform, and Productivity Apps services in AWS, including support for customers who require specialized security solutions for their cloud services.
+
+Want to shape the future of a NoSQL database service that supports mission-critical workloads operating at more than 20 million requests per second? How about we make it (even) faster?
+
+Amazon DynamoDB is one of the largest distributed database systems in the market, yet we continue to believe it is Day 1 for the DynamoDB business. We are looking for a technical leader for an elite team of developers committed to the goal of growing the DynamoDB business by ten times over the next two years.
+
+The DynamoDB Accelerator (DAX) team's charter is to provide an in-memory caching service that makes reading data from DynamoDB even faster for our customers, improving the already fast response times of DynamoDB up to ten times—from milliseconds to microseconds—even at millions of requests per second.
+
+As a relatively new product feature, DAX adoption is continuing to grow, however customers face hurdles as DAX is not serverless. As a result, we’re looking for entrepreneurial-focused individuals who not only want to build a fantastic distributed serverless cache for DynamoDB, but also who can deliver results withh quality, set future direction, lead, and influence how caching for DynamoDB should evolve to better meet customer needs.
+
+Engineers say DynamoDB is a technically challenging space that requires innovative solutions. As an engineering manager in the DynamoDB team, you will build, lead, and grow an amazing team of software developers to solve technical problems for which there are no easy answers.
+
+You will closely partner with our product management team to better understand customer needs, to regularly solicit feedback from key customers, and to set the vision of how to evolve the product going forward.
+
+You will own setting your team's roadmap. You also will own ensuring that the serverless cache is continually operating at the scale and with the high availability, reliability, and security that AWS customers expect—and at the microsecond-level speeds that our customers need.
+
+If the intersection of core computer science and product vision intrigues you, this might be the right place for you.
+
+About the team
+Diverse Experiences
+AWS values diverse experiences. Even if you do not meet all of the preferred qualifications and skills listed in the job description, we encourage candidates to apply. If your career is just starting, hasn’t followed a traditional path, or includes alternative experiences, don’t let it stop you from applying.
+
+Why AWS?
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud platform. We pioneered cloud computing and never stopped innovating — that’s why customers from the most successful startups to Global 500 companies trust our robust suite of products and services to power their businesses.
+
+Inclusive Team Culture
+Here at AWS, it’s in our nature to learn and be curious. Our employee-led affinity groups foster a culture of inclusion that empower us to be proud of our differences. Ongoing events and learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences, inspire us to never stop embracing our uniqueness.
+
+Mentorship & Career Growth
+We’re continuously raising our performance bar as we strive to become Earth’s Best Employer. That’s why you’ll find endless knowledge-sharing, mentorship and other career-advancing resources here to help you develop into a better-rounded professional.
+
+Work/Life Balance
+We value work-life harmony. Achieving success at work should never come at the expense of sacrifices at home, which is why we strive for flexibility as part of our working culture. When we feel supported in the workplace and at home, there’s nothing we can’t achieve in the cloud.
+
+BASIC QUALIFICATIONS
+- 3+ years of engineering team management experience
+- 7+ years of engineering experience
+- 8+ years of leading the definition and development of multi tier web services experience
+- Knowledge of engineering practices and patterns for the full software/hardware/networks development life cycle, including coding standards, code reviews, source control management, build processes, testing, certification, and livesite operations
+- Experience partnering with product or program management teams
+
+PREFERRED QUALIFICATIONS
+- Experience in communicating with users, other technical teams, and senior leadership to collect requirements, describe software product features, technical designs, and product strategy
+- Experience in recruiting, hiring, mentoring/coaching and managing teams of Software Engineers to improve their skills, and make them more effective, product software engineers
+
+About Flipkart
+At Flipkart, we're driven by our purpose of empowering every Indian's dream by delivering value through innovation in technology and commerce. With a customer base of over 350 million, product coverage of over 150 million across 80+ categories, a focus on generating direct and indirect employment and a commitment to empowering generations of entrepreneurs and MSMEs, all driven by a sustainable growth strategy – Flipkart is maximizing for customers, stakeholders, and the planet at large!
+
+Flipkart is a part of the Walmart-owned Flipkart Group, which also includes group companies Flipkart Health+, Myntra, and Cleartrip.
+
+Open Positions:
+1
+
+Skills Required:
+Engineering Management, project management, program management, agile
+
+Location:
+Bangalore,Karnataka
+
+Why work with us?
+At Flipkart, we promise to maximize what you care about the most. You get an opportunity to leave a mark on the lives of a billion Indians. You’ll be encouraged to experiment, learn and grow within various opportunities at Flipkart. You’ll work with some of the smartest people from the most diverse backgrounds. And while you do all of this, you will experience our culture of care and industry-leading policies for you and your loved ones that enable you to focus on doing your best work.
+
+Every Flipster is a maximizer – curious, with an ownership mindset, and a willingness to take on big challenges. We are driven by our values of audacity, bias for action, customer-first, with integrity and inclusion. If you resonate with these, Flipkart is just the place for you to thrive!
+
+We understand that your own aspiration and journey is unique. And we respect that. You choose what you want to maximize, and we provide you the platform for it. Because when you maximize, we maximize.
+
+Know more about life and working at Flipkart here.
+
+Being Yourself @ Flipkart
+Flipkart respects and values differences. We are proud to be an equal opportunity employer and are committed to promoting a diverse workplace culture where every individual is valued for who they are, regardless of race, color, age, faith, gender identity or expression, sexual orientation, nationality, marital status, professional pedigree, physical ability, veteran status, or any other characteristics. We firmly believe that when people with diverse identities and perspectives work together, we create the most value – for our customers, our people, and society. We are committed to fostering a culture of inclusion and belonging, where diverse teams innovate and excel every day.
+
+Our mission is to elevate the quality of life for the urban consumer by offering unparalleled convenience.
+
+
+From starting out as a hyperlocal food delivery service in 2014 to becoming a logistics hub that also covers instant grocery deliveries, as well as concierge services; our capabilities result not only in lightning-fast deliveries for our customers, but also in providing our people with a productive and fulfilling career.
+
+
+
+Swiggy is now India's leading convenience commerce platform, with a tech-first approach to logistics and a solution-first approach to consumer demands. Built on the back of robust ML technology and fuelled by terabytes of data processed everyday, Swiggy offers a fast, seamless, and reliable delivery experience for millions of customers.
+
+
+
+With a presence in over 500 cities across India, partnerships with over 150K restaurants, an employee base of 5000+, and a 2.6L+ strong independent fleet of Delivery Executives; Swiggy is driven to elevate the quality of life for urban consumers by delivering unparalleled convenience.
+
+
+
+With Swiggy's recent new business launches of Swiggy Instamart, Swiggy Genie, and Health Hub, we are consistently making waves by reimagining convenience in India, while growing the opportunities we offer our employees.
+
+
+
+Customer experience remains our primary focus and if you're excited about solving problems that you face as a customer, come join us on this amazing ride!
+
+
+
+We are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, disability status, or any other characteristic protected by the law.
+
+Job Description
+Function: Technical Management → Engineering Management
+
+AndroidBig DataCC++iOSJavaJavaScriptPHP+3 morePythonRubyScala
+What we look for:
+
+Previous experience in managing and providing technical leadership to engineering teams
+Previous fullstack experience in both dynamically and statically typed languages - we primarily use Python, Java and NodeJS, but members of our team have backgrounds in a wide range of technologies
+Proven ability in architecture and building scalable systems and teams
+Experience with system monitoring and alerting for availability and performance. We try and keep Pageload under 4s for all the customer properties
+An eye for the right talent, and experience in recruiting and hiring a team
+8+ years related engineering experience, 3+ years in a leadership role
+
+
+What you will do:
+
+Facilitate tight and compassionate collaboration between our Search n' Discovery, Mobile, Portal, Revenue n' Growth and DevOps/Security teams
+Lead and manage an effective engineering function to support productive development and quality of life for the development team
+Engage in 1 on 1's with development team members to understand their goals, concerns, struggles, and accomplishments
+Join groups of developers working on features to provide guidance and feedback
+Work with other engineering leads to define infrastructure needs and make architectural decisions
+Build a development dream-team, including recruiting, hiring, mentoring and performance management
+Work closely with the company leaders including the technical founder, product, operations, and Customer Care to strategically build the platform
+
+
+Engineering Manager
+
+
+
+Job Profile: Engineering Manager
+
+Location: Bangalore | Karnataka 
+
+Years of Experience: 8 - 10 
+
+
+
+ABOUT THE TEAM & ROLE: 
+
+
+
+As part of the Food team, the vertical targets Swiggy’s uber vision of being Kings of Convenience by providing the on-demand guaranteed deliveries along with numerous promotions for the Swiggy Food/InstamartM/Dineout business line. This technical vertical inside the Swiggy Tech ecosystem focuses to solve multiple business use cases for increasing Swiggy's revenue and providing growth via Promotions, Pricing and Ads platforms across multiple business lines like Swiggy Food/Instamart/Dineout. We try to understand our customer behavior and build smart products using cutting-edge technologies to solve these problems at scale. We operate on a scale of millions of customer interactions on the Swiggy App daily.
+
+
+
+Engineering Managers in Swiggy contribute not only to the high-level architecture of several systems but also to the product's overall success by driving technology and best practices in engineering in their respective teams. 
+
+They establish technology vision for respective teams and demonstrate how to solve a deeply complex and hard technical challenge, and help communicate that vision upward (CTO), inward (peers and engineering team) and outward (product & business teams). 
+
+
+
+What will you get to do here? 
+
+Engineering Manager at Swiggy will work closely with the Product Management, Business, Development, Design and Operations team, enabling them by providing scalable and high-quality technology solutions at a rapid pace. 
+They co-own the technology vision of the respective team and significantly contribute to the overall success of the team 
+You will manage your business goals, contribute to product strategy and help develop your team
+Create clear career paths for team members and help them grow 
+Architect & design technically robust, flexible and scalable solution 
+Set up best practices for development and champion their adoption and at the same time
+	What qualities are we looking for? 
+
+We are looking for a passionate, entrepreneurial, hands-on Engineering Manager to join the Bangalore Swiggy Engineering team 
+8-10 years of experience in developing products with 1+ years in leading a team of 10+
+In this role, you will be responsible for leading a team of application and front-end / Back-end engineers to drive innovation in full-stack product development, while relentlessly improving performance, scalability, and maintainability.
+Technically Hands-on, prior experience with scalable Architecture managing team of (5-10)
+Coaching, mentoring managers and Architects in the team. Good team management skills with ability to multitask, strong problem solving and analytical skills 
+Experience working with Product Managers and UX Designers
+Experience with web technologies, Java/Golang, MySQL, NoSql, redis, Python, Linux, AWS etc.
+Experience with high performance websites catering to millions of daily traffic is a plus with an ability to bring in software engineering life cycle best practices
+
+ABOUT THE TEAM & ROLE:
+
+Swiggy's StoreFront Engineering team helps customers enjoy personalized discovery and purchase experience across multiple product lines (Stores, Food, Genie and Instamart). The team is enabling this by developing thoughtfully crafted applications, smart cataloging, relevance-based search & intent-driven merchandising, checkout management solutions, and payment systems. 
+
+We are looking for engineers who have hands-on experience in building highly reliable distributed systems and have deep expertise in database design & performance tuning. Knowledge of Machine Learning and other Predictive Modeling techniques will be added strength. Few interesting problems we are solving include: 
+
+1. Client-facing Applications
+
+2. Smart Catalog & Category Intelligence
+
+3. Personalized Search & Merchandising experience
+
+4. Payments
+
+5. Pricing
+
+6. Order Management System
+
+Engineering Managers in Swiggy not only contribute to the high-level architecture of several systems but also contribute to the overall success of the product by driving technology and best practices in engineering in their respective teams.
+
+They establish technology vision for respective teams and demonstrate how to solve a deeply complex and hard technical challenge, and help communicate that vision upward (CTO), inward (peers and engineering team) and outward (product & business teams). 
+
+
+
+As a Senior Technical Individual contributor you will be responsible for
+
+Building and operating multi-tenant ordering and payments platforms which work across all business lines and subsidiaries. This needs to scale to millions of transactions per day with 99.95% uptime while allowing new business lines to be deployed safely and rapidly.
+Building and scaling Swiggy Money (our fast growing wallet) across all business lines and subsidiaries.
+What qualities are we looking for?
+
+We are looking for a passionate, entrepreneurial, hands-on Engineering Manager to join the Bangalore Swiggy Engineering team
+
+10 -14 years of experience in developing products with at 4-5 years in leading a team
+
+In this role, you will be responsible for leading a team of application and front-end / Back-end engineers to drive innovation in full-stack product development, while relentlessly improving performance, scalability, and maintainability.
+
+Technically Hands-on, prior experience with scalable Architecture managing team of (5-10)
+
+Coaching, mentoring managers and Architects in the team. Good team management skills with ability to multitask, strong problem solving and analytical skills
+
+Experience working with Product Managers and UX Designers
+
+Experience with web technologies, PHP/ Java, Python, Linux, Apache, MySQL, solr, memcache, redis, javascript, ajax etc.
+
+Experience with high performance websites catering to millions of daily traffic is a plus with an ability to bring in software engineering life cycle best practices
+
+
+
+What will you get to do here?
+
+You have the technical chops to roll up sleeves and provide technical leadership to major projects but also build and manage a team of 10-15 top-notch engineers.
+
+You not only optimize your own code but make sure engineers are able to optimize theirs. As an Engineering Manager, you manage your business goals, contribute to product strategy and help develop your team
+
+Create clear career paths for team members and help them grow with regular & deep mentoring. Perform regular performance evaluations and share and seek feedback.
+
+Our world-class software engineers are just getting started -- and as a manager, you guide the way. You are their default mentor
+
+You work closely with Product Management, Business Development, and Operations team and enable them by providing scalable and high quality technology solutions at a rapid pace
+
+You set up best practices for development and champion their adoption and at the same time Architect & design technically robust, flexible and scalable solutions
+
+Perform well in uncertainties and collaborate and work with unclear interfaces to other teams in our rapidly evolving organizations
+
+About the Role
+
+Uber is changing the way people think about transportation. Not that long ago, we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of cities everywhere. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+
+We’re looking for an Engineering Manager to join the Growth and Marketing platform team to help the Comms platform become an effective tool to enable diverse use cases such as transactional uses (seamless logins), ads and promotions (marketing) campaigns that enable diverse use cases such as eaters to discover new foods and restaurants to grow their customer base.
+
+You’ll lead and work with teams behind apps used by millions globally every day and be a part of the technical foundations and product growth for these areas. In hundreds of cities, people tap their phones to get a ride, get food delivered, or earn extra cash with Uber; we’re looking for engineering leaders to help us ensure every one of those experiences is magical.
+
+What the Candidate Will Need / Bonus Points
+
+---- What the Candidate Will Do ----
+
+Lead, manage and grow a team of customer-focused software engineers
+Mentor and guide the professional and technical development of engineers on your team, and continuously improve software engineering practices
+Own the craftsmanship, reliability, and scalability of your solutions
+Bring a passion to stay on top of industry trends, experiment with and learn new technologies, and participate in internal and external technical communities
+Encourage innovation, implementation of cutting-edge technologies, outside-of-the-box thinking, teamwork, and self-organization
+Hire top performing engineering talent and maintaining our commitment to diversity and inclusion
+Collaborate with and across teams to design, build, and ship great experiences for our customers
+---- Basic Qualifications ----
+
+Bachelor's or Master's degree or equivalent in Computer Science, Engineering, Mathematics or related fields. 8 years full-time Software Engineering work experience + at least 2-years full-time Engineer Management experience, WHICH INCLUDES technical software engineering experience in one or more of the following areas:
+
+Programming language (e.g. C, C++, Java, Python, or Go)
+Strong leadership skills with a track record of successfully leading and managing engineering teams.
+Strong technical background and hands-on experience in designing & building robust engineering platforms/products.
+A track record of delivering results in fast-paced and highly ambiguous environments.
+Excellent communication skills with the ability to articulate complex technical concepts to both technical and non-technical audiences.
+---- Preferred Qualifications ----
+
+A strong business sense and an ability to challenge and effectively partner with product managers and business stakeholders.
+10+ years full-time Software Engineering experience with at least 2-years full-time Engineer Management experience
+Experience in communications platform or growth and marketing space building platforms or products is a plus.
